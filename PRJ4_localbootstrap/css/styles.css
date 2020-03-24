@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+    background-color: #62A4CD;
+}
+#part1 {
+    background: white;
+    text-align: center;
+    padding: 0.5em;
+    border: 4px solid #000
+}
+.container {
+    padding-bottom: 50px;
+}
+.lion {
+    border: dashed #2B1974;
+    padding: 0.5em;
+}
+.jumbotron {
+	background: #DBA3D9;
+}
+
+.btn {
+	background: #EF3B3E; 
+}
+
+.btn:hover {
+	background: yellow;
+}
+
+.btn-primary {
+	color: black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+}
+
+.btn-primary:hover {
+	color: blue;
+}

@@ -1,0 +1,25 @@
+/* CSS Document */
+body {
+background-color: #D48DF4; 
+ } 
+
+	.container {
+	padding-bottom: 50px;
+}
+
+.nav { 
+background: #6793DF; 
+  }
+	
+a, .nav {
+color: black;
+ }
+
+#part1 { 
+background: #631436;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; 
+color: lightcoral;
+text-align: center;
+padding: 0.5em;
+border: 4px solid #000	
+}
